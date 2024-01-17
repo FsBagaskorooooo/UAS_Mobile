@@ -1,5 +1,5 @@
 # UAS Pemograman Mobile
-
+##
 
 
 |**Nama**|**NIM**|**Kelas**|**Dosen**|
@@ -7,7 +7,7 @@
 |Fergiawan Satrio Bagaskoro|312210169|TI.22.A.2|Donny Maulana, S.Kom., M.M.S.I.|
 
 
-
+##
 ## Tampilan Splash Logonya
 ![ss4](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/5778fec5-7960-4618-886a-0ae76ed8d773)
 
