@@ -27,11 +27,13 @@
 ![ss6](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/b0aeabd9-42ac-47a0-a127-82cd08155705)
 
 ## Project Alarm
+Tekan button alarm untuk mengarahkan ke aplikasi alarm
 ![ss7](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/7fd6498a-6c20-4e0e-a3e9-dbe9f7bd7775)
 
 ![ss8](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/de6871fb-611f-4078-9cff-c43a3a33af20)
 
 ## Project Maps
+Setelah kita menekan button Maps di menu utama, Maka akan langsung menuju ke aplikasi Maps
 ![ss9](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/3d743d73-fb2b-49b0-b429-6a30ba72f738)
 
 ## Project Film
@@ -45,7 +47,7 @@
 ![ss12](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/18d7f3c9-5fa4-44ce-84ad-ea6b848a3f03)
 
 ### Tampilan Detail Film
-Tampilan ini ada setelah mengklik film yang ada di list film
+Tampilan ini ada setelah mengklik salah satu film yang ada di list film
 ![ss13](https://github.com/FsBagaskorooooo/UAS_Mobile/assets/130354090/da640083-7920-4bf8-baba-c508ac30fbd9)
 
 ### Video Trailernya
